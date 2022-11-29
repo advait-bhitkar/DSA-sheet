@@ -54,7 +54,7 @@ public class ReverseArray {
             stack.push(i);
         }
 
-        for (int i=0; i<arr.length; i++){
+        for (int i = 0; i < arr.length; i++){
             if (!stack.isEmpty())
                 arr[i] = stack.pop();
         }
