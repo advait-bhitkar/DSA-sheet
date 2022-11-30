@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56070250-8841-4d30-9769-0c6fef099392" name="Changes" comment="ReverseArray">
-      <change afterPath="$PROJECT_DIR$/src/array/MaxMInElementArray.java" afterDir="false" />
+    <list default="true" id="56070250-8841-4d30-9769-0c6fef099392" name="Changes" comment="MinMaxElement">
+      <change afterPath="$PROJECT_DIR$/src/array/DutchNationalFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/KthMinMaxElementArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ReverseArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,33 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaxMInElementArray">
+  <component name="RunManager" selected="Application.DutchNationalFlag">
+    <configuration name="DutchNationalFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.DutchNationalFlag" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthMinMaxElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.KthMinMaxElementArray" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxMInElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.MaxMInElementArray" />
       <module name="DSA" />
@@ -68,6 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DutchNationalFlag" />
+        <item itemvalue="Application.KthMinMaxElementArray" />
         <item itemvalue="Application.MaxMInElementArray" />
         <item itemvalue="Application.ReverseArray" />
       </list>
@@ -103,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669736519567</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="MinMaxElement">
+      <created>1669745350839</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669745350839</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ReverseArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseArray" />
+    <MESSAGE value="MinMaxElement" />
+    <option name="LAST_COMMIT_MESSAGE" value="MinMaxElement" />
   </component>
 </project>
