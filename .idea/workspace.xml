@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56070250-8841-4d30-9769-0c6fef099392" name="Changes" comment="MinMaxElement">
-      <change afterPath="$PROJECT_DIR$/src/array/DutchNationalFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/KthMinMaxElementArray.java" afterDir="false" />
+    <list default="true" id="56070250-8841-4d30-9769-0c6fef099392" name="Changes" comment="Kth Min and Max, Dutch National Flag">
+      <change afterPath="$PROJECT_DIR$/src/array/MoveNegativeElementsToOneSide.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DutchNationalFlag">
+  <component name="RunManager" selected="Application.MoveNegativeElementsToOneSide">
     <configuration name="DutchNationalFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.DutchNationalFlag" />
       <module name="DSA" />
@@ -79,6 +78,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MoveNegativeElementsToOneSide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.MoveNegativeElementsToOneSide" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.ReverseArray" />
       <module name="DSA" />
@@ -94,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoveNegativeElementsToOneSide" />
         <item itemvalue="Application.DutchNationalFlag" />
         <item itemvalue="Application.KthMinMaxElementArray" />
         <item itemvalue="Application.MaxMInElementArray" />
@@ -138,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669745350839</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Kth Min and Max, Dutch National Flag">
+      <created>1669825323143</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669825323143</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +175,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ReverseArray" />
     <MESSAGE value="MinMaxElement" />
-    <option name="LAST_COMMIT_MESSAGE" value="MinMaxElement" />
+    <MESSAGE value="Kth Min and Max, Dutch National Flag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kth Min and Max, Dutch National Flag" />
   </component>
 </project>
