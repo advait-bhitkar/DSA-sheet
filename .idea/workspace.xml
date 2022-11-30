@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56070250-8841-4d30-9769-0c6fef099392" name="Changes" comment="Kth Min and Max, Dutch National Flag">
-      <change afterPath="$PROJECT_DIR$/src/array/MoveNegativeElementsToOneSide.java" afterDir="false" />
+    <list default="true" id="56070250-8841-4d30-9769-0c6fef099392" name="Changes" comment="MoveNegativeElementsToOneSide">
+      <change afterPath="$PROJECT_DIR$/src/array/UnionAndIntersectionOfSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MoveNegativeElementsToOneSide">
+  <component name="RunManager" selected="Application.UnionAndIntersectionOfSortedArray">
     <configuration name="DutchNationalFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.DutchNationalFlag" />
       <module name="DSA" />
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ReverseArray" />
+    <configuration name="UnionAndIntersectionOfSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.UnionAndIntersectionOfSortedArray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UnionAndIntersectionOfSortedArray" />
         <item itemvalue="Application.MoveNegativeElementsToOneSide" />
         <item itemvalue="Application.DutchNationalFlag" />
         <item itemvalue="Application.KthMinMaxElementArray" />
         <item itemvalue="Application.MaxMInElementArray" />
-        <item itemvalue="Application.ReverseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669825323143</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="MoveNegativeElementsToOneSide">
+      <created>1669826261838</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669826261838</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +183,7 @@
     <MESSAGE value="ReverseArray" />
     <MESSAGE value="MinMaxElement" />
     <MESSAGE value="Kth Min and Max, Dutch National Flag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kth Min and Max, Dutch National Flag" />
+    <MESSAGE value="MoveNegativeElementsToOneSide" />
+    <option name="LAST_COMMIT_MESSAGE" value="MoveNegativeElementsToOneSide" />
   </component>
 </project>
